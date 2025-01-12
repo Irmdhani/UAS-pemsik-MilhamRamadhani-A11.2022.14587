@@ -1,11 +1,21 @@
-# React + Vite
+# UAS Pemrograman Sisi Klien
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Mohamad Ilham Ramadhani
+A11.2022.14587
 
-Currently, two official plugins are available:
+membuat aplikasi CRUD bertemakan Bencana Alam menggunakan React Vite dan juga Golang untuk API
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+cara run Aplikasi
+ - nyalakan mysql menggunakan XAMPP
+ - jalankan QUERY.sql di mysql untuk membuat database
+ - masuk directory api di terminal
+ - nyalakan server dengan
+   ```bash
+   go run main.go
+   ```
 
-
-
+ - kembali ke directory sebelumnya
+ - nyalakan aplikasi dengan
+ - ```bash
+   npm run dev
+   ```
