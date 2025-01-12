@@ -1,7 +1,6 @@
 # UAS Pemrograman Sisi Klien
 
-Mohamad Ilham Ramadhani
-A11.2022.14587
+# Mohamad Ilham Ramadhani - A11.2022.14587
 
 membuat aplikasi CRUD bertemakan Bencana Alam menggunakan React Vite dan juga Golang untuk API
 
